@@ -1,0 +1,36 @@
+
+# DIO |  Projeto: DevMatch – Conectando Devs para Projetos Colaborativos
+ 
+
+
+ Ideia Principal: Uma plataforma web onde desenvolvedores podem se conectar com outros devs que querem praticar, estudar ou construir projetos juntos. Tipo um “Tinder” de projetos open source.
+
+ Objetivo: Facilitar a formação de parcerias de estudo e desenvolvimento, conectando devs por stack, nível de conhecimento e interesse (ex: API, jogos, IA, front-end).
+
+ Funcionalidades Principal: 
+ - Cadastro com GitHub (login via OAuth)
+- Criação de perfil com:
+- Stack (HTML, CSS, JS, Python etc)
+- Nível (iniciante, intermediário, avançado)
+- Objetivos (aprender, contribuir, portfólio, etc.)
+- Sugestão de devs compatíveis com interesses semelhantes
+- Sistema de “match” e chat para conversar
+- Propostas de projetos para fazer em grupo
+- Área de oportunidades: ideias abertas para contribuição
+
+Stack Sugerida: 
+- Front-end: React + TailwindCSS
+- Back-end: Node.js + Express 
+- Banco de dados: MongoDB
+- Autenticação: GitHub OAuth
+- Deploy: Vercel (front) + Render ou Railway (back)
+- CI/CD: GitHub Actions
+
+Organização no GitHub:
+- README bem explicado
+- Contribuição aberta com boas issues
+- Tag good first issue pra atrair iniciantes
+- Documentação com exemplos de uso
+- Projeto dividido por front, back e documentação
+
+ 
